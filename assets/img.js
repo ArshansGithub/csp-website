@@ -1,4 +1,4 @@
-const images = [{"Me & Bro": "images/bro.jpg", "width": "default", "height": 400}, {"When I was little": "images/snoozin.JPG", "width": 300, "height": 250}, {"My House": "images/house.jpg", "width": "default", "height": 400}]
+const images = [{"Me & Bro": "images/bro.jpg", "width": "default", "height": 400}, {"Little me": "images/snoozin.JPG", "width": 300, "height": 250}, {"My House": "images/house.jpg", "width": "default", "height": 400}]
 
 function checkIfExists(position) {
     
