@@ -177,4 +177,9 @@ function firstLoad() {
     }
 }
 
+function gotolink(link) {
+    // Go to link in new tab
+    window.open(link, "_blank");
+}
+
 document.addEventListener("DOMContentLoaded", firstLoad);
