@@ -131,6 +131,10 @@ button {
     border-radius: 25px;
 }
 
+.container h1 {
+    margin-left: 10px;
+}
+
 .container img {
     width: 75%;
     height: 75%;
